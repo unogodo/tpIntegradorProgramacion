@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1719894089 source:c:\users\bruno\desktop\c++\tp integrador con funciones\tp integrador con funciones\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1719894089 c:\users\bruno\desktop\c++\tp integrador con funciones\tp integrador con funciones\menu.h
+
+1719894089 source:c:\users\bruno\desktop\c++\tp integrador con funciones\tp integrador con funciones\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1719894089 c:\users\bruno\desktop\c++\tp integrador con funciones\tp integrador con funciones\juego.h
+
+1719894089 source:c:\users\bruno\desktop\c++\tp integrador con funciones\tp integrador con funciones\juego.cpp
+	<iostream>
+	"juego.h"
+	"funciones.h"
+
+1719894273 c:\users\bruno\desktop\c++\tp integrador con funciones\tp integrador con funciones\funciones.h
+
+1719894341 source:c:\users\bruno\desktop\c++\tp integrador con funciones\tp integrador con funciones\funciones.cpp
+	<iostream>
+
